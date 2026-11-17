@@ -9,3 +9,14 @@
   padding: 20px;
   border-bottom: 2px solid #333;
 }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.card {
+  padding: 16px;
+  border: 1px solid #999;
+}
