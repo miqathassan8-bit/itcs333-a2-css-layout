@@ -21,16 +21,16 @@
   border: 1px solid gray;
 }
 
-register-form input {
+.register-form input {
   padding: 8px;
   border: 1px solid gray;
 }
 
-register-form input:focus {
+.register-form input:focus {
   border: 1px solid blue;
 }
 
-btn-primary {
+.btn-primary {
   background-color: navy;
   color: white;
   padding: 8px 16px;
